@@ -1,4 +1,4 @@
-package org.example;
+package com.github.zaharpavlikov.weather;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
